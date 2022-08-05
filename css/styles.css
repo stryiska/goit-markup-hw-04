@@ -141,11 +141,10 @@ body {
 
     justify-content: center;
 }
-.nav-item {
+.nav-link {
     padding-top: 32px;
     padding-bottom: 32px;
-}
-.nav-link {
+    
     display: flex;
     justify-content: center;
     align-items: center;
